@@ -19,8 +19,10 @@ Please visit [www.raystudio.net](https://www.raystudio.net) for me
 🤔 I’m looking for help with:
 - Nothing for right now......
 
-💬 Ask me about:
-- Web Tech Stuff
+💬 Ask me about questions like:
+- "How to create your own webpage"
+- "How to stack up all service together?"
+- "How to be more devoted Catholic?"
 
 📫 How to reach me:
 - Use Email in my website
