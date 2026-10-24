@@ -1,7 +1,10 @@
 # Hi there 👋
 
 So, **I am Ray**, a high school developer that focus on Web Tech and Software.
+
 Please visit [www.raystudio.net](https://www.raystudio.net) for me
+
+I am excited for running website!
 
 ## About Me
 
@@ -15,9 +18,6 @@ Please visit [www.raystudio.net](https://www.raystudio.net) for me
 
 👯 I am also working in:
 - FRC Team 449 (Blair Robot Projects)
-
-🤔 I’m looking for help with:
-- Nothing for right now......
 
 💬 Ask me about questions like:
 - "How to create your own webpage"
@@ -33,3 +33,5 @@ Please visit [www.raystudio.net](https://www.raystudio.net) for me
 
 ⚡ Fun fact:
 - I am a Christian, and currently in OCIA
+
+PS: SaltFlavoredLight/SalFlavoredLight have a lots of .md about me
