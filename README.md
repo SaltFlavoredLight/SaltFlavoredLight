@@ -10,6 +10,7 @@ I am excited for running website!
 
 🔭 I’m currently working on:
 - RaySite (a website builder, ready to be public)
+- Redesign my website.
 
 🌱 I’m currently learning:
 - Cloudflare Workers
