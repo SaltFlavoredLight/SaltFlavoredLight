@@ -14,6 +14,7 @@ I am excited for running website!
 
 🌱 I’m currently learning:
 - Cloudflare Workers
+- Astro
 - ProseMirror
 - Catholic (?)
 
