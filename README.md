@@ -2,7 +2,7 @@
 
 So, **I am Ray**, a high school developer that focus on Web Tech and Software.
 
-Please visit [www.raystudio.net](https://www.raystudio.net) for me
+Please visit [www.raystudio.net](https://www.raystudio.net) for me (it will be updated few days after)
 
 I am excited for running website!
 
@@ -11,9 +11,10 @@ I am excited for running website!
 🔭 I’m currently working on:
 - RaySite (a website builder, ready to be public)
 - Redesign my website.
+- A New CMS System.
 
 🌱 I’m currently learning:
-- Cloudflare Workers
+- Cloudflare Workers and Hono
 - Astro
 - ProseMirror
 - Catholic (?)
@@ -27,7 +28,7 @@ I am excited for running website!
 - "How to be more devoted Catholic?"
 
 📫 How to reach me:
-- Use Email in my website
+- Email me on Website.
 
 😄 Pronouns:
 - He/Him
@@ -35,5 +36,4 @@ I am excited for running website!
 
 ⚡ Fun fact:
 - I am a Christian, and currently in OCIA
-
-PS: SaltFlavoredLight/SalFlavoredLight have a lots of .md about me
+- 
